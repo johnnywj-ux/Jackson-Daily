@@ -1,0 +1,33 @@
+# The Jackson Family
+
+**Home:** 921 Golfside Dr, Winter Park, FL 32792
+**Timezone:** America/New_York (Eastern)
+
+## People
+
+| Person | Role | Notes |
+|---|---|---|
+| John "JJ" Jackson | Dad | johnnywj@gmail.com — primary account this assistant runs on. PTO June 29 – July 2, 2026 |
+| Michelle "Michy" Jackson | Mom | mgauthreaux91@gmail.com — co-manages the Family calendar. Sees Dr. Joseph (confirm) |
+| Lucas Jackson | Son (toddler) | Loving Earth Preschool, "Pumpkin 2's" class. Soccer Saturdays, Goldfish Swim Sundays, water day Mondays |
+| Emma Jackson | Daughter (confirm) | Patient at Middleton Pediatrics; AdventHealth imaging appt June 26, 2026 |
+| Penny | Pet (confirm) | Recurring "Penny Medicine" reminder (next: June 17) |
+
+## Extended family & regulars
+
+- **Michelle's parents** — travel often (Miami early June 2026); "Mom at
+  Christi" June 15–19, 2026
+- **Christina** — in town June 12–14, 2026 (confirm relationship)
+- **Sara** — birthday June 22 (annual reminder on John's calendar since 2014)
+- **Richard** — was in Boston June 3–8, 2026 (confirm relationship)
+
+## Key places
+
+| Place | Address | Who |
+|---|---|---|
+| Loving Earth Preschool & Development Center | 813 N Lakemont Ave, Winter Park | Lucas (daily summaries arrive via Procare email) |
+| Goldfish Swim School – Winter Park | 5445 Lake Howell Rd, Winter Park | Lucas — Mini 2, Lane 8, Sundays 9:30 AM |
+| Blue Jacket Park | Orlando | Lucas soccer, Saturdays 9:00 AM |
+| Middleton Pediatrics | (Privia Health network) | Emma |
+
+*(confirm) = inferred from calendar/email during setup — correct me if wrong.*

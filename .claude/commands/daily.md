@@ -1,0 +1,29 @@
+---
+description: Generate The Jackson Daily morning briefing and save it as a Gmail draft
+---
+
+Build today's edition of **The Jackson Daily**. If an argument like
+"tomorrow" or a date is given, build it for that date instead: $ARGUMENTS
+
+Steps:
+
+1. **Read the knowledge base**: `family/*.md` and `templates/daily-briefing.md`.
+2. **Pull the day** (timezone America/New_York) from all four calendars listed
+   in CLAUDE.md — Family, John's Main, WP Travel, US Holidays. Also pull the
+   next 14 days from Family + Main for the Heads-up section.
+3. **Sweep the inbox**: Gmail search `newer_than:1d in:inbox` (and
+   `from:procaresoftware.com newer_than:1d` for Lucas's daycare summary).
+   Keep only action-needed items; ignore marketing and newsletters.
+4. **Get weather** for Winter Park, FL (web search or wttr.in). If
+   unavailable, skip the weather line — never invent it.
+5. **Check for conflicts**: overlapping events, travel vs. appointments,
+   anything in `family/household.md` flagged "raise in every briefing."
+6. **Compose** the briefing exactly per the template. Remember the texting
+   rules in CLAUDE.md: short, no micromanaging, one affirmation.
+7. **Deliver**:
+   - Create a Gmail draft — to: johnnywj@gmail.com, cc: mgauthreaux91@gmail.com,
+     subject per template. Use a clean HTML body (simple headings, lists; no
+     heavy styling) plus a plain-text alternative.
+   - Save a markdown copy to `briefings/YYYY-MM-DD.md`, commit, and push.
+8. **Report back** in chat with the briefing content and a note that the
+   draft is in Gmail ready to send.
