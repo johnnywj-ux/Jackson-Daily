@@ -5,12 +5,14 @@
 
 ## People
 
+The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
+
 | Person | Role | Notes |
 |---|---|---|
 | John "JJ" Jackson | Dad | johnnywj@gmail.com — primary account this assistant runs on. PTO June 29 – July 2, 2026 |
-| Michelle "Michy" Jackson | Mom | mgauthreaux91@gmail.com — co-manages the Family calendar. Sees Dr. Joseph (confirm) |
+| Michelle "Michy" Jackson | Mom | mgauthreaux91@gmail.com — co-manages the Family calendar. Sees Dr. Joseph |
 | Lucas Jackson | Son (toddler) | Loving Earth Preschool, "Pumpkin 2's" class. Soccer Saturdays, Goldfish Swim Sundays, water day Mondays |
-| Emma Jackson | Daughter (confirm) | Patient at Middleton Pediatrics; AdventHealth imaging appt June 26, 2026 |
+| Emma Jackson | Daughter | Patient at Middleton Pediatrics; AdventHealth imaging appt June 26, 2026 |
 | Penny | Pet (confirm) | Recurring "Penny Medicine" reminder (next: June 17) |
 
 ## Extended family & regulars
