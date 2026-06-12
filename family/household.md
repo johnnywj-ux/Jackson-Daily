@@ -27,11 +27,19 @@
   reappears, treat as a Michy/JJ admin block.
 - Experian credit alerts arrive by email — surface only if unusual.
 
-## Trip file: Sunny Isles, June 26 – July 4, 2026
+## Trip file: Sunny Isles beach trip, June 26 – July 4, 2026
+
+Family beach trip to Michelle's aunt & uncle's condo in Sunny Isles.
+Michelle's parents will be there too. Doubling as engagement festivities for
+cousin **Stella & Jared** — Michelle (matron of honor) is planning the
+activities.
 
 - **Out:** Train (Brightline, confirm) Orlando → Aventura, June 26, 9:55 AM → 1:05 PM
 - **Car:** Avis, 19575 Biscayne Blvd, Aventura — pickup June 26 12 PM, return July 4 12 PM. Conf #16948364US6, Mazda CX-50 or similar, under Michelle's name. 1-800-230-4898
-- **Stay:** Stella Sunny Isles (from June 26)
+- **Stay:** split between the aunt & uncle's condo and a hotel Michelle has
+  already booked (hotel name/dates of each leg unknown — ask, or watch for
+  the confirmation email)
+- **JJ PTO:** June 29 – July 2
 - ⚠️ **Conflict on file:** Emma's AdventHealth Orlando imaging is June 26 at
   1:45 PM — same day the family travels (train arrives Aventura 1:05 PM).
   Someone needs to reschedule one of these or split coverage. Raise in every

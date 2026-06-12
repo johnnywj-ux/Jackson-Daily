@@ -26,7 +26,13 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
 - **Dan** — Christina's husband, Emma's godfather
 - **Peter, Lucy, Hannah** — Christina & Dan's kids, with a 4th on the way
   (due date unknown — ask)
-- **Michelle's parents** — travel often (Miami early June 2026)
+- **Michelle's parents** — travel often (Miami early June 2026); joining the
+  Sunny Isles beach trip June–July 2026
+- **Michelle's aunt & uncle** — own the beach condo in Sunny Isles the
+  family stays at (names unknown — ask)
+- **Stella** — Michelle's cousin, engaged to **Jared**. Michelle is matron
+  of honor (wedding date unknown — ask). Engagement festivities being
+  planned by Michelle around the June 2026 Sunny Isles trip
 - **Sara** — John's cousin, birthday June 22. Married to **Brady**; they're
   expecting their first child (due date unknown — ask). Michelle already
   bought them a gift.

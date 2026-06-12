@@ -24,7 +24,8 @@ the calendar and is incomplete.
 | June 15–19 | Mom at Christi |
 | June 17 | Penny medicine |
 | June 24 | Hannah Brown author chat, Mead Botanical Garden, 7 PM (doors 6:45) |
-| June 26 | Train to Aventura 9:55 AM → Avis pickup → Stella Sunny Isles; Emma's AdventHealth imaging 1:45 PM ⚠️ *same day as travel — see conflicts* |
+| June 26 | Sunny Isles beach trip begins: train to Aventura 9:55 AM → Avis pickup → condo/hotel; Stella & Jared engagement festivities during trip; Emma's AdventHealth imaging 1:45 PM ⚠️ *same day as travel — see conflicts* |
+| TBD | Stella & Jared's wedding — Michelle is matron of honor (get the date) |
 | June 29 – July 2 | JJ PTO |
 | July 4 | Return rental car (Aventura) by 12 PM |
 
