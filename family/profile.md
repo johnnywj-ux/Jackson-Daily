@@ -12,10 +12,11 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
 | John "JJ" Jackson | Dad | b. Oct 19, 1988. johnnywj@gmail.com — primary account this assistant runs on. **Works remotely from home.** PTO June 29 – July 2, 2026 |
 | Michelle "Michy" Jackson | Mom | b. Sep 20, 1991. mgauthreaux91@gmail.com — co-manages the Family calendar. Sees Dr. Joseph. **Works remotely from home. On maternity leave until late September 2026** — home with Emma, with occasional help from Momma G or Nicole |
 
-Married May 25, 2019 💍
 | Lucas Jackson | Son, age 2 | b. Dec 27, 2023. Loving Earth Preschool, "Pumpkin 2's" class. Soccer Saturdays, Goldfish Swim Sundays, water day Mondays |
 | Emma Jackson | Daughter, infant | **b. May 7, 2026** — newborn. Middleton Pediatrics; AdventHealth imaging June 26; next checkup July 7 (Dr. Allison). Michelle's Monday "Baby bunch" group is with Emma |
 | Penny | Pet (confirm) | Recurring "Penny Medicine" reminder (next: June 17) |
+
+Married May 25, 2019 💍
 
 ## Extended family & regulars
 
@@ -63,9 +64,6 @@ Married May 25, 2019 💍
 - **Stella** — Michelle's cousin, engaged to **Jared**. Michelle is matron
   of honor (wedding date unknown — ask). Engagement festivities being
   planned by Michelle around the June 2026 Sunny Isles trip
-- **Sara** — John's cousin, birthday June 22. Married to **Brady**; they're
-  expecting their first child (due date unknown — ask). Michelle already
-  bought them a gift.
 
 ## Key places
 
