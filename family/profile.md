@@ -17,11 +17,18 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
 
 ## Extended family & regulars
 
-- **Michelle's parents** — travel often (Miami early June 2026); "Mom at
-  Christi" June 15–19, 2026
-- **Christina** — in town June 12–14, 2026 (confirm relationship)
-- **Sara** — birthday June 22 (annual reminder on John's calendar since 2014)
-- **Richard** — was in Boston June 3–8, 2026 (confirm relationship)
+- **Richard** — Michelle's brother, Lucas's godfather (was in Boston June
+  3–8, 2026)
+- **Nicole** — Richard's wife, Emma's godmother
+- **Christina ("Christi")** — Michelle's sister, Lucas's godmother (in town
+  June 12–14, 2026; calendar entries like "Mom at Christi" mean Michelle's
+  mom staying with her)
+- **Dan** — Christina's husband, Emma's godfather
+- **Peter, Lucy, Hannah** — Christina & Dan's kids, with a 4th on the way
+  (due date unknown — ask)
+- **Michelle's parents** — travel often (Miami early June 2026)
+- **Sara** — birthday June 22 (annual reminder on John's calendar since
+  2014) (confirm relationship)
 
 ## Key places
 
