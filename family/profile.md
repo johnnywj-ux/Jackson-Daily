@@ -66,8 +66,7 @@ Married May 25, 2019 💍
 
 ## Friends
 
-- **Anya & Jorge** — Michelle's friend from UVA business school (she and
-  Michelle were classmates), married, live in Richmond, VA. Anya's bday
-  June 16
+- **Anya & Jorge** — married couple in Richmond, VA. Michelle, Anya, and
+  Jorge all attended UVA business school together. Anya's bday June 16
 
 *(confirm) = inferred from calendar/email during setup — correct me if wrong.*
