@@ -10,15 +10,29 @@ Open this repo in Claude Code (claude.ai/code or the mobile app) and run
 is in Gmail. The Gmail and Google Calendar connectors must be enabled for the
 session — they already are if you're reading a fresh briefing.
 
-## 2. Scheduled cloud session (recommended next step)
+## 2. Scheduled task in Claude Cowork / Claude Code Desktop (recommended)
 
-Claude Code on the web supports re-running a session against this repo.
-Set a phone reminder/shortcut for 6 AM that deep-links to claude.ai/code with
-this repo and the prompt `/daily` — effectively one-tap-zero-thought.
-If/when Anthropic ships native scheduled tasks for Claude Code on the web,
-point the schedule at `/daily` and delete this section.
+This is how the original "Daily Dover" runs unattended. Both Claude Cowork
+and Claude Code Desktop support scheduled recurring tasks (shipped Feb 2026):
 
-## 3. Fully headless via GitHub Actions (most setup)
+1. On the desktop app, clone this repo locally and open it (Cowork: point a
+   session at the folder; Claude Code Desktop: open the repo).
+2. Type `/schedule` and create a weekday task for your chosen time with the
+   standing instruction: *"Run git pull, then follow .claude/commands/daily.md
+   to produce The Jackson Daily."* The `git pull`/`push` steps keep the
+   memory files in sync with GitHub.
+3. Make sure the Gmail and Google Calendar connectors are enabled for the app.
+
+**The one real caveat:** scheduled tasks only run while the computer is awake
+with the app open. If the machine is asleep at 4 AM, the task runs when it
+wakes — fine if the laptop opens before coffee, not fine if you want the
+briefing on your phone from bed. For a true 4 AM delivery, leave a desktop
+awake (or see option 3).
+
+Docs: https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork
+and https://code.claude.com/docs/en/desktop-scheduled-tasks
+
+## 3. Fully headless via GitHub Actions (most setup, true 4 AM)
 
 A cron workflow can run `claude` (the CLI) on a schedule with
 `anthropics/claude-code-action`. The catch: the runner has no Gmail/Calendar
