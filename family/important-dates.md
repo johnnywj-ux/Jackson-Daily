@@ -9,18 +9,28 @@ the calendar and is incomplete.
 | Date | Who | Notes |
 |---|---|---|
 | June 22 | Sara — John's cousin | Gift already handled (Michelle, June 2026). Sara & Brady expecting their first child — add due date when known |
-| (add) | John | |
+| July 28 | Momma G — Michelle's mom | |
+| Aug 7 | Dan Angel — Emma's godfather | |
+| Aug 10 | Henry — Lindsay & Andrew's son | |
+| Aug 18 | Lucy Angel — Christina & Dan's daughter | |
+| Oct 1 | Piper — Lindsay & Andrew's daughter | |
+| Oct 19 | John | |
+| Nov 16 | Jackie | (confirm who) |
+| Dec 27 | Lucas | |
 | (add) | Michelle | |
-| (add) | Lucas | |
 | (add) | Emma | |
 | (add) | Wedding anniversary | |
-| (add) | Grandparents | |
+| (add) | Becky/Mimi, Lee/Papa, Lindsay, Christina, Richard | |
 
 ## 2026 one-offs already on the radar
 
 | Date | What |
 |---|---|
 | June 12–14 | Christina in town |
+| June 13 | Piper's piano recital, 11:30 AM (after Lucas's 9 AM soccer) |
+| June 20–21 | Lindsay in Duluth |
+| TBD | **Evermore hotel trip** — booked by Becky/Mimi & Lee/Papa; Lindsay, Andrew, Piper & Henry joining. Dates not yet identified on the calendar — candidates are Becky's untitled blocks (June 21–28 or June 28–July 5 on WP Travel, though both overlap Sunny Isles) or her "Family trip??" Sep 3–7. **Ask John for the dates.** |
+| July 17–19 | Walt Disney World Swan reservation (cancellation window closes July 11, 12:30 PM) |
 | June 15–19 | Mom at Christi |
 | June 17 | Penny medicine |
 | June 24 | Hannah Brown author chat, Mead Botanical Garden, 7 PM (doors 6:45) |

@@ -17,17 +17,32 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
 
 ## Extended family & regulars
 
+### John's side
+
+- **Becky "Mimi" & Lee "Papa"** — John's parents (Becky: beckywj@gmail.com;
+  she posts the family's travel plans to the WP Travel Schedule calendar).
+  Booked the upcoming Evermore hotel trip (dates TBD — see important-dates)
+- **Lindsay** — John's sister, married to **Andrew** (surname Celauro,
+  confirm — from "Piper Celauro" calendar entry); in Duluth June 20–21
+- **Piper & Henry** — Lindsay & Andrew's kids. Piper's bday Oct 1, piano
+  recital June 13; Henry's bday Aug 10
+- **Sara** — John's cousin, birthday June 22. Married to **Brady**; they're
+  expecting their first child (due date unknown — ask). Michelle already
+  bought them a gift.
+
+### Michelle's side
+
 - **Richard** — Michelle's brother, Lucas's godfather (was in Boston June
   3–8, 2026)
 - **Nicole** — Richard's wife, Emma's godmother
 - **Christina ("Christi")** — Michelle's sister, Lucas's godmother (in town
   June 12–14, 2026; calendar entries like "Mom at Christi" mean Michelle's
   mom staying with her)
-- **Dan** — Christina's husband, Emma's godfather
-- **Peter, Lucy, Hannah** — Christina & Dan's kids, with a 4th on the way
-  (due date unknown — ask)
-- **Michelle's parents** — travel often (Miami early June 2026); joining the
-  Sunny Isles beach trip June–July 2026
+- **Dan Angel** — Christina's husband, Emma's godfather (bday Aug 7)
+- **Peter, Lucy, Hannah Angel** — Christina & Dan's kids, with a 4th on the
+  way (due date unknown — ask). Lucy's bday Aug 18
+- **Michelle's parents** — "Momma G" (bday July 28) and dad; travel often
+  (Miami early June 2026); joining the Sunny Isles beach trip June–July 2026
 - **Michelle's aunt & uncle** — own the beach condo in Sunny Isles the
   family stays at (names unknown — ask)
 - **Stella** — Michelle's cousin, engaged to **Jared**. Michelle is matron
