@@ -9,8 +9,8 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
 
 | Person | Role | Notes |
 |---|---|---|
-| John "JJ" Jackson | Dad | b. Oct 19, 1988. johnnywj@gmail.com — primary account this assistant runs on. PTO June 29 – July 2, 2026 |
-| Michelle "Michy" Jackson | Mom | b. Sep 20, 1991. mgauthreaux91@gmail.com — co-manages the Family calendar. Sees Dr. Joseph |
+| John "JJ" Jackson | Dad | b. Oct 19, 1988. johnnywj@gmail.com — primary account this assistant runs on. **Works remotely from home.** PTO June 29 – July 2, 2026 |
+| Michelle "Michy" Jackson | Mom | b. Sep 20, 1991. mgauthreaux91@gmail.com — co-manages the Family calendar. Sees Dr. Joseph. **Works remotely from home. On maternity leave until late September 2026** — home with Emma, with occasional help from Momma G or Nicole |
 
 Married May 25, 2019 💍
 | Lucas Jackson | Son, age 2 | b. Dec 27, 2023. Loving Earth Preschool, "Pumpkin 2's" class. Soccer Saturdays, Goldfish Swim Sundays, water day Mondays |
@@ -37,15 +37,22 @@ Married May 25, 2019 💍
 
 - **Richard** — Michelle's brother, Lucas's godfather (was in Boston June
   3–8, 2026)
-- **Nicole Gauthreaux** — Richard's wife, Emma's godmother (bday May 31)
-- **Christina ("Christi")** — Michelle's sister, Lucas's godmother (in town
-  June 12–14, 2026; calendar entries like "Mom at Christi" mean Michelle's
-  mom staying with her)
+- **Nicole Gauthreaux** — Richard's wife, Emma's godmother (bday May 31).
+  Sometimes helps Michelle with the kids; **starts a new job ~June 19, 2026**,
+  so expect her to be less available after that
+- **Christina ("Christi")** — Michelle's sister, Lucas's godmother. Lives in
+  **St. Petersburg, FL** (in town June 12–14, 2026). Calendar entries like
+  "Mom at Christi" mean **Momma G is in St. Pete with Christina — i.e., away
+  and not available to help** with the kids; treat as an FYI, not a plan
 - **Dan Angel** — Christina's husband, Emma's godfather (bday Aug 7)
 - **Peter, Lucy, Hannah Angel** — Christina & Dan's kids, with a 4th on the
   way (due date unknown — ask). Lucy's bday Aug 18
-- **Michelle's parents** — "Momma G" (bday July 28) and dad; travel often
-  (Miami early June 2026); joining the Sunny Isles beach trip June–July 2026
+- **Michelle's parents** — **Maria Elena Gauthreaux ("Momma G", bday July 28)**
+  and dad; live in **Winter Springs, FL** (close by). Momma G is retired and
+  **often helps with Lucas & Emma**, but keeps an active social calendar
+  (exercise, clubs, church) — confirm her availability, don't assume it.
+  Travel often (Miami early June 2026); joining the Sunny Isles beach trip
+  June–July 2026
 - **Abba** — Michelle's aunt (bday May 8); she and her husband own the
   Sunny Isles beach condo the family stays at (uncle's name unknown — ask)
 - **Stella** — Michelle's cousin, engaged to **Jared**. Michelle is matron
