@@ -23,6 +23,10 @@ Subject line: `☀️ The Jackson Daily — {Weekday}, {Month} {D}`
 - Service visits, deliveries expected, chores due (trash/recycling night),
   active-project notes (e.g., repaving parking rule)
 
+**✅ To-dos**
+- Overdue first, then due-soon, then up to 3 "good day for it" picks from
+  `family/todos.md`. Note anything auto-completed. Never the whole list.
+
 **🔭 Heads-up (next 14 days)**
 - Birthdays, trips, school closures, big events — with days-until counts
 - Keep to the 5 most relevant items

@@ -17,6 +17,7 @@ becomes the household chief of staff.
 |---|---|
 | `/daily` | Builds **The Jackson Daily** — today's briefing — and saves it as a Gmail draft to John & Michelle |
 | `/weekly` | Sunday-evening week-ahead preview: every commitment for the next 7 days, conflicts flagged |
+| `/todo` | Family to-do list: `/todo` to review, `/todo add buy mulch`, `/todo done culligan`, `/todo sweep` to import emailed items |
 
 You can also just talk to it: *"What's on for Lucas this weekend?"*,
 *"Add Emma's follow-up to the Family calendar"*, *"Anything in my inbox I need

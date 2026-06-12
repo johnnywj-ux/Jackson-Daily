@@ -14,6 +14,11 @@ Steps:
 3. **Sweep the inbox**: Gmail search `newer_than:1d in:inbox` (and
    `from:procaresoftware.com newer_than:1d` for Lucas's daycare summary).
    Keep only action-needed items; ignore marketing and newsletters.
+   Also run the to-do email import (`subject:todo newer_than:2d` from John or
+   Michelle → file in `family/todos.md`, label thread `JacksonDaily`).
+3b. **To-dos**: from `family/todos.md`, pull overdue items, items due in ≤3
+   days, and up to 3 sensible "today" picks given the day's shape. Mark
+   anything the calendar/email shows as completed.
 4. **Get weather** for Winter Park, FL (web search or wttr.in). If
    unavailable, skip the weather line — never invent it.
 5. **Check for conflicts**: overlapping events, travel vs. appointments,

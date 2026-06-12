@@ -15,6 +15,9 @@ If $ARGUMENTS names a different start date, use that.
    coverage is unclear, appointments that collide with travel.
 5. Include a short "Buy/Book/Do this week" list (gifts for upcoming birthdays,
    reservations, forms) derived from `family/important-dates.md` lead-time rules.
+5b. **To-do review** from `family/todos.md`: what's overdue, what's due this
+   week, and a gentle "still real?" check on anything untouched 21+ days.
+   Suggest which days fit which tasks given the week's shape.
 6. Deliver the same way as `/daily`: Gmail draft to johnnywj@gmail.com
    cc mgauthreaux91@gmail.com, subject `🗓️ The Jackson Weekly — Week of {Month D}`,
    archive to `briefings/YYYY-MM-DD-weekly.md`, commit, push, and post the
