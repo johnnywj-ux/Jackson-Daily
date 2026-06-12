@@ -20,8 +20,8 @@ the calendar and is incomplete.
 | Oct 19 | John | b. 1988 |
 | Oct 27 | Becky "Mimi" Jackson | |
 | Nov 16 | Jackie | (confirm who — note: contact Corey Compton shares 11/16) |
-| Dec 27 | Lucas | |
-| May 7 | Emma | |
+| Dec 27 | Lucas | b. 2023 |
+| May 7 | Emma | b. 2026 |
 | May 8 | Abba — Michelle's aunt (Sunny Isles condo) | |
 | May 23 | Lee "Papa" Jackson | |
 | **May 25** | **John & Michelle's wedding anniversary** | Married 2019 |
