@@ -38,6 +38,9 @@ can mention them day-of but they don't need gift lead-time.
 |---|---|
 | June 12–14 | Christina in town |
 | June 13 | Piper's piano recital, 11:30 AM (after Lucas's 9 AM soccer) |
+| June 14 | ☎️ Call jury line after 5 PM (407-836-2048) re: Monday service |
+| June 15 | **John: jury duty** (if required by Sunday's call) — courthouse 7:30 AM. Same day: Lucas water day, Michy's Baby bunch 10:30 AM, Michelle's mom arrives at Christi's |
+| June 16 | Anya's bday (from Michelle's calendar — confirm who) |
 | June 20–21 | Lindsay in Duluth |
 | June 21 – July 5 | Mimi & Papa in town (Winter Park) — Becky's untitled blocks on WP Travel |
 | July 17–19 | Walt Disney World Swan reservation (cancellation window closes July 11, 12:30 PM) |
