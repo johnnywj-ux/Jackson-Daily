@@ -1,44 +1,28 @@
-# Family To-Dos
+# Family To-Dos — DEPRECATED (archive only)
 
-Source of truth for household to-dos that don't live on a calendar.
-The chief of staff reads this for every briefing, adds items captured from
-chat or email, and moves finished items to Done. Format per item:
-`- [ ] Task — *who* (added M/D, due M/D if any)`
+> **The live to-do list now lives in Todoist** — the "Family To Do" project,
+> shared between John and Michelle, managed via `/todo`. Do not add or read
+> active tasks here. This file is kept only as a historical record of items
+> that were open or completed before the 2026-06-12 migration to Todoist.
 
-## 🔥 Now (this week)
+## Migrated to Todoist on 2026-06-12
 
-- [ ] **Call jury duty line Sunday 6/14 after 5 PM** — 407-836-2048 — to learn if John must report Monday 6/15 (7:30 AM, Orange County Courthouse, Suite 180, if yes). Also complete the juror questionnaire online beforehand: ninthcircuit.org — *John* (added 6/11, due 6/14)
-- [ ] Michy: forward the Sunny Isles hotel reservation email to John — *Michy* (added 6/11, due 6/12 — surface in 6/12 briefing + Michy's text)
+These open items were transferred to the Todoist "Family To Do" project (with
+owners, due dates, and priorities preserved):
 
+- Call jury duty line Sunday 6/14 after 5 PM — *John*
+- Forward the Sunny Isles hotel reservation email to John — *Michy*
+- Call AdventHealth to reschedule Emma's imaging (was 6/26 1:45 PM) — *Michy*
+- Lock in the electrician before Culligan's 6/19 softener install — *John*
+- Sort July 5 ride to the train station (Sunny Isles return) — *John/Michy*
+- Follow up with First Choice Garage on install scheduling — *John*
+- Set up Gmail forwarding filters (school/doctor → John) — *Michy*
+- Add family birthdays to family/important-dates.md — *John*
+- Tell Roy/Kaufmann "we're passing" once Gomez plan confirmed (parked) — *Michy/John*
 
-- [ ] Michy: call AdventHealth to reschedule Emma's imaging (currently 6/26 1:45 PM — conflicts with the 9:55 AM train to Sunny Isles). Done when a new date is on the calendar — *Michy* (added 6/11, due before 6/26)
-- [ ] Lock in the electrician for the new outlet **before Culligan's Friday 6/19 softener install** — texted one 6/12, awaiting reply; chase or find another if nothing back by Tue 6/16 — *John* (added 6/12, due 6/17)
-
-## 📋 Soon
-
-- [ ] Sort July 5 ride to the train station (Sunny Isles return — car goes back 7/4, family driving us, who/when TBD) — *John/Michy* (added 6/11, due 7/2)
-
-- [ ] If First Choice Garage hasn't reached out to schedule the install by ~6/22, follow up (new door was on order ~2 wks from 6/5; nothing paid yet) — *John* (added 6/12, due 6/22)
-- [ ] Set up Gmail forwarding filters (school/doctor senders → John) — *Michy* (added 6/11)
-- [ ] Add family birthdays to family/important-dates.md — *John* (added 6/11)
-
-## ⏸️ Parked (intentionally waiting — don't surface as overdue)
-
-- [ ] Send Roy/Kaufmann a courteous "we're passing" once the Gomez plan is confirmed — *Michy/John* (added 6/11, unblocks after: confidence in Gomez design)
-
-## 🌴 Someday / maybe
-
-- [ ] (import the Keep/Tasks backlog — see note below)
-
-## ✅ Done (last 30 days)
+## ✅ Done (historical, pre-migration)
 
 - [x] Decide on Culligan water system — yes; softener install booked for Fri 6/19 (6/12)
-
 - [x] Trash/recycling schedule filed: Mon trash, Wed yard, Fri trash + recycling (6/11)
 - [x] Share Michelle's personal calendar with johnnywj@gmail.com — done, briefings now read it (6/11)
 - [x] Gift for Sara & Brady — Michelle already bought one (noted 6/11)
-
----
-**Import note:** Google Keep/Tasks can't be read by the assistant. To migrate,
-paste your current lists into chat (or email them to johnnywj@gmail.com with
-"todo:" in the subject) and the chief of staff will file everything here.

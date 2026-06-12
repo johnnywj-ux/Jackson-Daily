@@ -30,16 +30,18 @@ Steps:
      Michelle a question or awaits a decision, with no later reply from
      johnnywj@ or mgauthreaux91@. Surface each with its age ("Roy, contract
      terms — waiting 2 days"). Any open loop older than 3 days also gets
-     added to `family/todos.md` 🔥 so it cannot age out silently.
-     **Exception:** skip anything in the ⏸️ Parked section of
-     `family/todos.md` or marked "Parked" in `family/household.md` — the
+     added to Todoist (priority `p1`) so it cannot age out silently.
+     **Exception:** skip anything marked Parked (a `p4` task whose description
+     says PARKED) in Todoist or marked "Parked" in `family/household.md` — the
      family is deliberately not replying yet. Mention a parked item only
      when its unblock condition appears met.
    Also run the to-do email import (`subject:todo newer_than:2d` from John or
-   Michelle → file in `family/todos.md`, label thread `JacksonDaily`).
-3b. **To-dos**: from `family/todos.md`, pull overdue items, items due in ≤3
-   days, and up to 3 sensible "today" picks given the day's shape. Mark
-   anything the calendar/email shows as completed.
+   Michelle → add to the Todoist "Family To Do" project, label thread
+   `JacksonDaily`).
+3b. **To-dos**: from Todoist (Family To Do, id `6gr7rPCVrMp3QRjM`; use
+   `find-tasks-by-date` with startDate `today` and overdue included), pull
+   overdue items, items due in ≤3 days, and up to 3 sensible "today" picks
+   given the day's shape. Complete anything the calendar/email shows as done.
 4. **Get weather** for Winter Park, FL (web search or wttr.in). If
    unavailable, skip the weather line — never invent it.
 5. **Check for conflicts**: overlapping events, travel vs. appointments,
