@@ -41,9 +41,11 @@ on the WP Travel calendar.
   Isles Beach** (17700 Collins Ave) July 3–5, under Michelle's name —
   check-in 4 PM 7/3, checkout 11 AM 7/5 (from the Family-calendar entry)
 - **JJ PTO:** June 29 – July 2, holiday July 3
-- **Return leg:** drop the Avis car July 4 (by noon), then family will drive
-  everyone to the train station July 5 after checkout — exact who/when TBD
-  (open to-do; sort before the trip)
+- **Return leg:** Avis car back July 4 by noon → **Brightline Return July 5,
+  10:19 AM departure** (on Family calendar). Family drives everyone to the
+  Aventura station that morning — who/when TBD (open to-do). Note: train
+  leaves *before* the 11 AM hotel checkout, so plan to be packed and out by
+  ~9:30 AM
 - ⚠️ **Conflict on file:** Emma's AdventHealth Orlando imaging is June 26 at
   1:45 PM — same day the family travels (train arrives Aventura 1:05 PM).
   Someone needs to reschedule one of these or split coverage. Raise in every
