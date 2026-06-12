@@ -27,8 +27,9 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
 - **Peter, Lucy, Hannah** — Christina & Dan's kids, with a 4th on the way
   (due date unknown — ask)
 - **Michelle's parents** — travel often (Miami early June 2026)
-- **Sara** — birthday June 22 (annual reminder on John's calendar since
-  2014) (confirm relationship)
+- **Sara** — John's cousin, birthday June 22. Married to **Brady**; they're
+  expecting their first child (due date unknown — ask). Michelle already
+  bought them a gift.
 
 ## Key places
 

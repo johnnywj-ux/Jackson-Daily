@@ -8,7 +8,7 @@ the calendar and is incomplete.
 
 | Date | Who | Notes |
 |---|---|---|
-| June 22 | Sara | Annual reminder on John's calendar since 2014 |
+| June 22 | Sara — John's cousin | Gift already handled (Michelle, June 2026). Sara & Brady expecting their first child — add due date when known |
 | (add) | John | |
 | (add) | Michelle | |
 | (add) | Lucas | |

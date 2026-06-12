@@ -9,7 +9,6 @@ chat or email, and moves finished items to Done. Format per item:
 
 
 - [ ] Resolve June 26 conflict: Emma's AdventHealth imaging 1:45 PM vs. train to Aventura — reschedule one — *John/Michy* (added 6/11)
-- [ ] Buy Sara's birthday gift (birthday 6/22) — *Michy* (added 6/11, due 6/19)
 - [ ] Decide on Culligan water system after Frank's 6/12 consult — *John* (added 6/11)
 
 ## 📋 Soon
@@ -29,7 +28,7 @@ chat or email, and moves finished items to Done. Format per item:
 
 ## ✅ Done (last 30 days)
 
-*(nothing yet)*
+- [x] Gift for Sara & Brady — Michelle already bought one (noted 6/11)
 
 ---
 **Import note:** Google Keep/Tasks can't be read by the assistant. To migrate,
