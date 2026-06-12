@@ -7,6 +7,8 @@ chat or email, and moves finished items to Done. Format per item:
 
 ## 🔥 Now (this week)
 
+- [ ] Michy: forward the Sunny Isles hotel reservation email to John — *Michy* (added 6/11, due 6/12 — surface in 6/12 briefing + Michy's text)
+
 
 - [ ] Resolve June 26 conflict: Emma's AdventHealth imaging 1:45 PM vs. train to Aventura — reschedule one — *John/Michy* (added 6/11)
 - [ ] Decide on Culligan water system after Frank's 6/12 consult — *John* (added 6/11)
