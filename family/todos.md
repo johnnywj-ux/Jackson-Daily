@@ -19,7 +19,6 @@ chat or email, and moves finished items to Done. Format per item:
 - [ ] Sort July 5 ride to the train station (Sunny Isles return — car goes back 7/4, family driving us, who/when TBD) — *John/Michy* (added 6/11, due 7/2)
 
 - [ ] Set up Gmail forwarding filters (school/doctor senders → John) — *Michy* (added 6/11)
-- [ ] Tell the chief of staff the trash/recycling pickup days — *John* (added 6/11)
 - [ ] Add family birthdays to family/important-dates.md — *John* (added 6/11)
 
 ## ⏸️ Parked (intentionally waiting — don't surface as overdue)
@@ -32,6 +31,7 @@ chat or email, and moves finished items to Done. Format per item:
 
 ## ✅ Done (last 30 days)
 
+- [x] Trash/recycling schedule filed: Mon trash, Wed yard, Fri trash + recycling (6/11)
 - [x] Share Michelle's personal calendar with johnnywj@gmail.com — done, briefings now read it (6/11)
 - [x] Gift for Sara & Brady — Michelle already bought one (noted 6/11)
 
