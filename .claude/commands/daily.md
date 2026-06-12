@@ -22,6 +22,10 @@ Steps:
      johnnywj@ or mgauthreaux91@. Surface each with its age ("Roy, contract
      terms — waiting 2 days"). Any open loop older than 3 days also gets
      added to `family/todos.md` 🔥 so it cannot age out silently.
+     **Exception:** skip anything in the ⏸️ Parked section of
+     `family/todos.md` or marked "Parked" in `family/household.md` — the
+     family is deliberately not replying yet. Mention a parked item only
+     when its unblock condition appears met.
    Also run the to-do email import (`subject:todo newer_than:2d` from John or
    Michelle → file in `family/todos.md`, label thread `JacksonDaily`).
 3b. **To-dos**: from `family/todos.md`, pull overdue items, items due in ≤3

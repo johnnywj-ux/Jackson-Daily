@@ -7,7 +7,6 @@ chat or email, and moves finished items to Done. Format per item:
 
 ## 🔥 Now (this week)
 
-- [ ] Reply to Roy Kaufmann re: remodel contract terms (email 6/9): 50/20/20/10 payment schedule, $200/day clause contingent on agreed completion date, contractor to co-sign while his license is pending — *Michy (John cc'd)* (added 6/11, waiting 2 days)
 
 - [ ] Resolve June 26 conflict: Emma's AdventHealth imaging 1:45 PM vs. train to Aventura — reschedule one — *John/Michy* (added 6/11)
 - [ ] Buy Sara's birthday gift (birthday 6/22) — *Michy* (added 6/11, due 6/19)
@@ -19,6 +18,10 @@ chat or email, and moves finished items to Done. Format per item:
 - [ ] Set up Gmail forwarding filters (school/doctor senders → John) — *Michy* (added 6/11)
 - [ ] Tell the chief of staff the trash/recycling pickup days — *John* (added 6/11)
 - [ ] Add family birthdays to family/important-dates.md — *John* (added 6/11)
+
+## ⏸️ Parked (intentionally waiting — don't surface as overdue)
+
+- [ ] Send Roy/Kaufmann a courteous "we're passing" once the Gomez plan is confirmed — *Michy/John* (added 6/11, unblocks after: confidence in Gomez design)
 
 ## 🌴 Someday / maybe
 
