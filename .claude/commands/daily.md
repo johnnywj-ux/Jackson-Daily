@@ -11,9 +11,17 @@ Steps:
 2. **Pull the day** (timezone America/New_York) from all four calendars listed
    in CLAUDE.md — Family, John's Main, WP Travel, US Holidays. Also pull the
    next 14 days from Family + Main for the Heads-up section.
-3. **Sweep the inbox**: Gmail search `newer_than:1d in:inbox` (and
-   `from:procaresoftware.com newer_than:1d` for Lucas's daycare summary).
-   Keep only action-needed items; ignore marketing and newsletters.
+3. **Sweep the inbox — two passes:**
+   - *New:* `newer_than:1d in:inbox` (plus `from:procaresoftware.com
+     newer_than:1d` for Lucas's daycare summary). Keep only action-needed
+     items; ignore marketing and newsletters.
+   - *Open loops:* `in:inbox newer_than:21d -category:promotions` — find
+     threads where the **last message is from a real person** (vendor, school,
+     doctor, family — not a noreply/marketing sender) that asks John or
+     Michelle a question or awaits a decision, with no later reply from
+     johnnywj@ or mgauthreaux91@. Surface each with its age ("Roy, contract
+     terms — waiting 2 days"). Any open loop older than 3 days also gets
+     added to `family/todos.md` 🔥 so it cannot age out silently.
    Also run the to-do email import (`subject:todo newer_than:2d` from John or
    Michelle → file in `family/todos.md`, label thread `JacksonDaily`).
 3b. **To-dos**: from `family/todos.md`, pull overdue items, items due in ≤3

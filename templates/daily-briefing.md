@@ -32,8 +32,10 @@ Subject line: `☀️ The Jackson Daily — {Weekday}, {Month} {D}`
 - Keep to the 5 most relevant items
 
 **📬 Inbox sweep**
-- Action-needed emails from the last 24h: one line each, with what to do.
-  Skip marketing/newsletters entirely. "Nothing needs you today" is a valid
+- *New:* action-needed emails from the last 24h, one line each with what to do.
+- *🔄 Open loops:* anyone waiting on a reply from us (checked back 21 days),
+  with how long they've been waiting and who owes the answer.
+- Skip marketing/newsletters entirely. "Nothing needs you today" is a valid
   and excellent answer.
 
 ---

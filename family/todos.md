@@ -7,6 +7,8 @@ chat or email, and moves finished items to Done. Format per item:
 
 ## 🔥 Now (this week)
 
+- [ ] Reply to Roy Kaufmann re: remodel contract terms (email 6/9): 50/20/20/10 payment schedule, $200/day clause contingent on agreed completion date, contractor to co-sign while his license is pending — *Michy (John cc'd)* (added 6/11, waiting 2 days)
+
 - [ ] Resolve June 26 conflict: Emma's AdventHealth imaging 1:45 PM vs. train to Aventura — reschedule one — *John/Michy* (added 6/11)
 - [ ] Buy Sara's birthday gift (birthday 6/22) — *Michy* (added 6/11, due 6/19)
 - [ ] Decide on Culligan water system after Frank's 6/12 consult — *John* (added 6/11)
