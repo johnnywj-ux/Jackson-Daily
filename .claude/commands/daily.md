@@ -8,9 +8,11 @@ Build today's edition of **The Jackson Daily**. If an argument like
 Steps:
 
 1. **Read the knowledge base**: `family/*.md` and `templates/daily-briefing.md`.
-2. **Pull the day** (timezone America/New_York) from all four calendars listed
-   in CLAUDE.md — Family, John's Main, WP Travel, US Holidays. Also pull the
-   next 14 days from Family + Main for the Heads-up section.
+2. **Pull the day** (timezone America/New_York) from all calendars listed
+   in CLAUDE.md — Family, John's Main, WP Travel, US Holidays, and Birthdays
+   (query the Birthdays calendar by ID; it's not in list_calendars). Also
+   pull the next 14 days from Family + Main + Birthdays for the Heads-up
+   section.
 3. **Sweep the inbox — two passes:**
    - *New:* `newer_than:1d in:inbox` (plus `from:procaresoftware.com
      newer_than:1d` for Lucas's daycare summary). Keep only action-needed

@@ -23,8 +23,8 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
   Becky runs the WP Travel Schedule calendar; her untitled all-day blocks
   mean they're in town (Winter Park). Booked the Evermore hotel trip
   July 23–27, 2026
-- **Lindsay** — John's sister, married to **Andrew** (surname Celauro,
-  confirm — from "Piper Celauro" calendar entry); in Duluth June 20–21
+- **Lindsay Celauro** — John's sister (bday Sep 22), married to **Andrew
+  Celauro** (bday Oct 8); in Duluth June 20–21
 - **Piper & Henry** — Lindsay & Andrew's kids. Piper's bday Oct 1, piano
   recital June 13; Henry's bday Aug 10
 - **Sara** — John's cousin, birthday June 22. Married to **Brady**; they're
@@ -35,7 +35,7 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
 
 - **Richard** — Michelle's brother, Lucas's godfather (was in Boston June
   3–8, 2026)
-- **Nicole** — Richard's wife, Emma's godmother
+- **Nicole Gauthreaux** — Richard's wife, Emma's godmother (bday May 31)
 - **Christina ("Christi")** — Michelle's sister, Lucas's godmother (in town
   June 12–14, 2026; calendar entries like "Mom at Christi" mean Michelle's
   mom staying with her)
