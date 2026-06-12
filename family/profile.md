@@ -64,4 +64,10 @@ Married May 25, 2019 💍
 | Blue Jacket Park | Orlando | Lucas soccer, Saturdays 9:00 AM |
 | Middleton Pediatrics | (Privia Health network) | Emma |
 
+## Friends
+
+- **Anya & Jorge** — Michelle's friend from UVA business school (she and
+  Michelle were classmates), married, live in Richmond, VA. Anya's bday
+  June 16
+
 *(confirm) = inferred from calendar/email during setup — correct me if wrong.*

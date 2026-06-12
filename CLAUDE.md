@@ -30,7 +30,7 @@ Google Calendar (timezone: America/New_York):
 | Family ("Michy/JJ") | `5cdv9sukek53jup7j6bjr6ojck@group.calendar.google.com` | Primary household calendar — kids' activities, appointments, guests, trips |
 | Main Calendar (John) | `johnnywj@gmail.com` | John's personal events, recurring reminders (Penny's medicine, birthdays) |
 | Michelle's Calendar | `mgauthreaux91@gmail.com` | Michelle's personal calendar (read-only, shared June 2026) — her recurring plans (Baby bunch Mondays 10:30 AM), friends' birthdays |
-| WP Travel Schedule | `a68c36affeb6e297b3f07933df8cc3f0bd3f70bab3d1d245177397a5a8c7c089@group.calendar.google.com` | John-side family travel coordination, run by Becky/Mimi (beckywj@gmail.com). **Decoder: her untitled all-day blocks mean Mimi & Papa are in town (Winter Park = "WP").** Also Lindsay-family plans and JJ's 9/80 Fridays-off schedule |
+| WP Travel Schedule | `a68c36affeb6e297b3f07933df8cc3f0bd3f70bab3d1d245177397a5a8c7c089@group.calendar.google.com` | John-side family travel coordination, run by Becky/Mimi (beckywj@gmail.com). **Decoder: her untitled all-day blocks mean Mimi & Papa are in town (Winter Park = "WP").** Also Lindsay-family plans and **JJ's personal status blocks** — 9/80 Fridays off, jury duty, and similar live here, not on his Main calendar |
 | US Holidays | `en.usa#holiday@group.v.calendar.google.com` | Holiday awareness (school/daycare closures) |
 | Birthdays (Google Contacts) | `addressbook#contacts@group.v.calendar.google.com` | Contact birthdays. **Note: doesn't appear in list_calendars — query it by ID directly.** Birthday events also exist on the Main Calendar via `eventType: BIRTHDAY` |
 
