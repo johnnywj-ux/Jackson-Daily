@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "p=$(jq -r '.prompt // empty'); if printf '%s' \"$p\" | grep -qiE '(^|[[:space:]])/daily([[:space:]]|$)'; then printf '%s' '{\"hookSpecificOutput\":{\"hookEventName\":\"UserPromptSubmit\",\"additionalContext\":\"/daily was invoked. BEFORE building the new briefing, FIRST check Gmail for a reply to the most recent Jackson Daily briefing from John (johnnywj@gmail.com) or Michelle (mgauthreaux91@gmail.com): search in:inbox newer_than:10d from:(johnnywj@gmail.com OR mgauthreaux91@gmail.com) Jackson Daily. If either replied with corrections or new durable facts, apply them to the relevant family/ markdown files and/or templates/daily-briefing.md and commit, THEN compose the briefing.\"}}'; fi; true",
+            "timeout": 10,
+            "statusMessage": "Checking for briefing corrections..."
+          }
+        ]
+      }
+    ]
+  }
+}

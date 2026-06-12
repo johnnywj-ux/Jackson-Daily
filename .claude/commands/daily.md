@@ -7,6 +7,13 @@ Build today's edition of **The Jackson Daily**. If an argument like
 
 Steps:
 
+0. **Import corrections from the last briefing.** Search Gmail for replies to
+   the most recent Jackson Daily from John or Michelle:
+   `in:inbox newer_than:10d from:(johnnywj@gmail.com OR mgauthreaux91@gmail.com) subject:"Jackson Daily"`.
+   If a reply contains corrections, preferences, or new durable facts, apply
+   them to the relevant `family/*.md` file and/or `templates/daily-briefing.md`
+   and commit BEFORE composing today's edition, then label the thread
+   `JacksonDaily` so it isn't imported twice. No reply = skip silently.
 1. **Read the knowledge base**: `family/*.md` and `templates/daily-briefing.md`.
 2. **Pull the day** (timezone America/New_York) from all calendars listed
    in CLAUDE.md — Family, John's Main, Michelle's, WP Travel, US Holidays,
