@@ -19,9 +19,10 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
 
 ### John's side
 
-- **Becky "Mimi" & Lee "Papa"** — John's parents (Becky: beckywj@gmail.com;
-  she posts the family's travel plans to the WP Travel Schedule calendar).
-  Booked the upcoming Evermore hotel trip (dates TBD — see important-dates)
+- **Becky "Mimi" & Lee "Papa"** — John's parents (Becky: beckywj@gmail.com).
+  Becky runs the WP Travel Schedule calendar; her untitled all-day blocks
+  mean they're in town (Winter Park). Booked the Evermore hotel trip
+  July 23–27, 2026
 - **Lindsay** — John's sister, married to **Andrew** (surname Celauro,
   confirm — from "Piper Celauro" calendar entry); in Duluth June 20–21
 - **Piper & Henry** — Lindsay & Andrew's kids. Piper's bday Oct 1, piano

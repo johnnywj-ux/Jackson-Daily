@@ -29,8 +29,10 @@ the calendar and is incomplete.
 | June 12–14 | Christina in town |
 | June 13 | Piper's piano recital, 11:30 AM (after Lucas's 9 AM soccer) |
 | June 20–21 | Lindsay in Duluth |
-| TBD | **Evermore hotel trip** — booked by Becky/Mimi & Lee/Papa; Lindsay, Andrew, Piper & Henry joining. Dates not yet identified on the calendar — candidates are Becky's untitled blocks (June 21–28 or June 28–July 5 on WP Travel, though both overlap Sunny Isles) or her "Family trip??" Sep 3–7. **Ask John for the dates.** |
+| June 21 – July 5 | Mimi & Papa in town (Winter Park) — Becky's untitled blocks on WP Travel |
 | July 17–19 | Walt Disney World Swan reservation (cancellation window closes July 11, 12:30 PM) |
+| July 19 – Aug 2 | Mimi & Papa in town (Winter Park) |
+| **July 23–27** | **Evermore hotel trip** — booked by Mimi & Papa; Lindsay, Andrew, Piper & Henry joining. JJ has PTO 7/23 + 9/80 Friday off 7/24 ✅ |
 | June 15–19 | Mom at Christi |
 | June 17 | Penny medicine |
 | June 24 | Hannah Brown author chat, Mead Botanical Garden, 7 PM (doors 6:45) |
