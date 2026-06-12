@@ -12,7 +12,7 @@ chat or email, and moves finished items to Done. Format per item:
 
 
 - [ ] Michy: call AdventHealth to reschedule Emma's imaging (currently 6/26 1:45 PM — conflicts with the 9:55 AM train to Sunny Isles). Done when a new date is on the calendar — *Michy* (added 6/11, due before 6/26)
-- [ ] Decide on Culligan water system after Frank's 6/12 consult — *John* (added 6/11)
+- [ ] Lock in the electrician for the new outlet **before Culligan's Friday 6/19 softener install** — texted one 6/12, awaiting reply; chase or find another if nothing back by Tue 6/16 — *John* (added 6/12, due 6/17)
 
 ## 📋 Soon
 
@@ -31,6 +31,8 @@ chat or email, and moves finished items to Done. Format per item:
 - [ ] (import the Keep/Tasks backlog — see note below)
 
 ## ✅ Done (last 30 days)
+
+- [x] Decide on Culligan water system — yes; softener install booked for Fri 6/19 (6/12)
 
 - [x] Trash/recycling schedule filed: Mon trash, Wed yard, Fri trash + recycling (6/11)
 - [x] Share Michelle's personal calendar with johnnywj@gmail.com — done, briefings now read it (6/11)
