@@ -7,7 +7,7 @@
 | Kitchen/bath remodel — **Gomez (active direction)** | Design phase | Working through design with Gomez; meeting 6/12 3 PM. (confirm contact details) |
 | Kitchen/bath remodel — Kaufmann Company (fallback, likely declining) | **Parked** — do not nag about Roy's 6/9 email | Family is unlikely to move forward; will send Roy a courteous pass once confident in the Gomez plan. Contacts: Roy Kaufmann (roy@kaufmanncompany.com, cell 407-283-9332), Juliana Kaufmann (juliana@, 321-732-1303). His last terms, for reference if revisited: 50/20/20/10 schedule, $200/day clause tied to agreed completion date, license pending (contractor would co-sign) |
 | Patio screening | Installed early June 2026 | Next phase: carpet (confirm) |
-| Garage | First Choice Garage visited June 3 | (confirm scope/next step) |
+| Garage | First Choice Garage — visited June 3 | **Waiting on vendor:** the new garage door is on order; First Choice will reach out to schedule the install once it arrives. ETA ~2 weeks from June 5 (so ~June 19). **Nothing paid yet.** Ball is in their court — follow up if no contact by ~6/22 |
 | Water treatment | Culligan consult June 12, 9 AM — Frank Scotti, (321) 231-9643, fscotti.culligan@gmail.com | 30–60 min, full water/plumbing analysis |
 | Landscape | Jana walk-through June 3 | (confirm next step) |
 | Golfside Dr repaving | City project through ~June 26 | Park on property 7 AM–4:30 PM weekdays; no sprinklers. Streets Dept 407-599-3537 |

@@ -18,6 +18,7 @@ chat or email, and moves finished items to Done. Format per item:
 
 - [ ] Sort July 5 ride to the train station (Sunny Isles return — car goes back 7/4, family driving us, who/when TBD) — *John/Michy* (added 6/11, due 7/2)
 
+- [ ] If First Choice Garage hasn't reached out to schedule the install by ~6/22, follow up (new door was on order ~2 wks from 6/5; nothing paid yet) — *John* (added 6/12, due 6/22)
 - [ ] Set up Gmail forwarding filters (school/doctor senders → John) — *Michy* (added 6/11)
 - [ ] Add family birthdays to family/important-dates.md — *John* (added 6/11)
 
