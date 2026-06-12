@@ -23,10 +23,12 @@ Married May 25, 2019 💍
 
 - **Becky "Mimi" & Lee "Papa"** — John's parents (Becky: beckywj@gmail.com).
   Keep a house **down the street on Dunblane Dr, Winter Park** and a second
-  house in **Lakeland, FL**; they **rotate between the two in roughly 2-week
-  blocks**. Becky runs the WP Travel Schedule calendar; her untitled all-day
-  blocks mean they're at the Winter Park house (vs. Lakeland) — i.e., nearby
-  and available to see/help. Booked the Evermore hotel trip July 23–27, 2026
+  house in **Lakeland, FL**; they rotate between the two in roughly 2-week
+  blocks (**approximate — don't infer dates from it**). Becky runs the WP
+  Travel Schedule calendar, which is the **source of truth** for where they
+  are: her untitled all-day blocks mean they're at the Winter Park house (vs.
+  Lakeland) — i.e., nearby and available to see/help. Booked the Evermore
+  hotel trip July 23–27, 2026
 - **Lindsay Celauro** — John's sister (bday Sep 22), married to **Andrew
   Celauro** (bday Oct 8). Live **down the street in Winter Park** (close by);
   in Duluth June 20–21
