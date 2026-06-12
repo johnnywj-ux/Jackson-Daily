@@ -25,6 +25,13 @@ recycling out tonight." Address the reminder to whoever's on point that week.
 
 ## Standing notes
 
+- **Emma's monthly birthday photo** — take it on the **7th of each month**
+  (she was born May 7, 2026), continuing until she turns 1 on **May 7, 2027**.
+  Briefings surface it the evening before ("Emma's [N]-month photo tomorrow")
+  and morning of. Months remaining: Jul 7 (2mo), Aug 7 (3mo), Sep 7 (4mo),
+  Oct 7 (5mo), Nov 7 (6mo), Dec 7 (7mo), Jan 7 (8mo), Feb 7 (9mo), Mar 7
+  (10mo), Apr 7 (11mo), then the May 7 first birthday.
+
 - Through ~June 26, 2026: **road repaving** on Golfside Dr — park on the
   property 7:00 AM–4:30 PM weekdays, no sprinklers during paving. Streets
   Dept: 407-599-3537.

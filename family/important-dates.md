@@ -54,6 +54,11 @@ can mention them day-of but they don't need gift lead-time.
 | June 29 – July 2 | JJ PTO |
 | July 4 | Return rental car (Aventura) by 12 PM |
 
+## Monthly recurring
+
+- **7th of every month:** Emma's monthly birthday photo (through her 1st
+  birthday, May 7 2027). See `family/routines.md`.
+
 ## Lead-time rules
 
 - Birthdays: surface 14 days out (time to buy a gift), again at 3 days, and on the day.
