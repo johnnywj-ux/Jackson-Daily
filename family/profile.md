@@ -9,8 +9,10 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
 
 | Person | Role | Notes |
 |---|---|---|
-| John "JJ" Jackson | Dad | johnnywj@gmail.com — primary account this assistant runs on. PTO June 29 – July 2, 2026 |
-| Michelle "Michy" Jackson | Mom | mgauthreaux91@gmail.com — co-manages the Family calendar. Sees Dr. Joseph |
+| John "JJ" Jackson | Dad | b. Oct 19, 1988. johnnywj@gmail.com — primary account this assistant runs on. PTO June 29 – July 2, 2026 |
+| Michelle "Michy" Jackson | Mom | b. Sep 20, 1991. mgauthreaux91@gmail.com — co-manages the Family calendar. Sees Dr. Joseph |
+
+Married May 25, 2019 💍
 | Lucas Jackson | Son (toddler) | Loving Earth Preschool, "Pumpkin 2's" class. Soccer Saturdays, Goldfish Swim Sundays, water day Mondays |
 | Emma Jackson | Daughter | Patient at Middleton Pediatrics; AdventHealth imaging appt June 26, 2026 |
 | Penny | Pet (confirm) | Recurring "Penny Medicine" reminder (next: June 17) |
@@ -44,8 +46,8 @@ The family is John, Michelle, Lucas, and Emma. "Michy" is Michelle's nickname.
   way (due date unknown — ask). Lucy's bday Aug 18
 - **Michelle's parents** — "Momma G" (bday July 28) and dad; travel often
   (Miami early June 2026); joining the Sunny Isles beach trip June–July 2026
-- **Michelle's aunt & uncle** — own the beach condo in Sunny Isles the
-  family stays at (names unknown — ask)
+- **Abba** — Michelle's aunt (bday May 8); she and her husband own the
+  Sunny Isles beach condo the family stays at (uncle's name unknown — ask)
 - **Stella** — Michelle's cousin, engaged to **Jared**. Michelle is matron
   of honor (wedding date unknown — ask). Engagement festivities being
   planned by Michelle around the June 2026 Sunny Isles trip
