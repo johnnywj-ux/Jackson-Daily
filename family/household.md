@@ -46,7 +46,7 @@ on the WP Travel calendar.
   Aventura station that morning — who/when TBD (open to-do). Note: train
   leaves *before* the 11 AM hotel checkout, so plan to be packed and out by
   ~9:30 AM
-- ⚠️ **Conflict on file:** Emma's AdventHealth Orlando imaging is June 26 at
-  1:45 PM — same day the family travels (train arrives Aventura 1:05 PM).
-  Someone needs to reschedule one of these or split coverage. Raise in every
-  briefing until resolved.
+- ⚠️ **Conflict — resolution in progress:** Emma's AdventHealth imaging
+  (6/26 1:45 PM) clashes with the travel day. **Michy is calling to
+  reschedule.** Keep on the to-do list until the new appointment appears on
+  the calendar; when it does, mark done and note the new date in briefings.
