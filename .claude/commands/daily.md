@@ -21,10 +21,13 @@ Steps:
    list_calendars). Also pull the next 14 days from Family + Main +
    Michelle's + Birthdays for the Heads-up section.
 3. **Sweep the inbox — two passes:**
-   - *New:* `newer_than:1d in:inbox` (plus `from:procaresoftware.com
-     newer_than:1d` for Lucas's daycare summary). Keep only action-needed
-     items; ignore marketing and newsletters.
-   - *Open loops:* `in:inbox newer_than:21d -category:promotions` — find
+   - *New:* `newer_than:1d (in:inbox OR label:Family-fwd)` (plus
+     `from:procaresoftware.com newer_than:1d` for Lucas's daycare summary).
+     Keep only action-needed items; ignore marketing and newsletters.
+     (`Family-fwd` = Michelle's forwarded Primary/Updates mail, auto-archived
+     out of John's inbox — so the sweep must include the label, not just
+     `in:inbox`.)
+   - *Open loops:* `(in:inbox OR label:Family-fwd) newer_than:21d -category:promotions` — find
      threads where the **last message is from a real person** (vendor, school,
      doctor, family — not a noreply/marketing sender) that asks John or
      Michelle a question or awaits a decision, with no later reply from

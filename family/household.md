@@ -23,24 +23,34 @@
 
 ## Inbox visibility — email forwarding (Michelle → John)
 
-So the Chief of Staff (which reads John's inbox) sees family logistics that
-otherwise land only in Michelle's inbox (mgauthreaux91@gmail.com). Setup: in
-Michelle's Gmail, johnnywj@gmail.com is added as a verified forwarding address,
-then a filter forwards the senders below and labels them "Shared w/ John."
+So the Chief of Staff (which reads John's inbox) sees family logistics that land
+in Michelle's inbox (mgauthreaux91@gmail.com).
 
-**Forward (Michelle-only senders the assistant would otherwise miss):**
-`adventhealth.com` (Emma imaging + medical billing), `pay.teamhealth.com` (ER
-physician bills), `eclinicalmail.com` (Michelle's OB — Winter Park OB/GYN),
-`soccershots.com` (Lucas soccer), `gomezcontractors.com` + `skondesigns.com`
-(active remodel — Gomez/Jana), `kaufmanncompany.com` (kept in case it reopens),
-`healthequity.com` (HSA — drop first if noisy).
+**Current setup (as of 6/13):** Michelle's Gmail forwards **everything in her
+Primary and Updates tabs** to johnnywj@gmail.com — a broad net rather than a
+per-sender allowlist, so new vendors/doctors/schools are caught automatically.
+(Criteria on her side: `category:primary OR category:updates`.) This includes
+her personal Primary correspondence — by design, John's call.
 
-Filter string:
-`from:(adventhealth.com OR pay.teamhealth.com OR eclinicalmail.com OR soccershots.com OR gomezcontractors.com OR skondesigns.com OR kaufmanncompany.com OR healthequity.com)`
+**Keeping John's inbox clean:** John's Gmail archives the forwarded mail on
+arrival and tags it, so it never clutters his inbox but stays visible to the
+assistant. His filter: `to:mgauthreaux91@gmail.com` → **Skip the Inbox
+(Archive it)** + **Apply label `Family-fwd`**. (If `to:` leaks, the bulletproof
+alternative is to have Michelle forward to a tagged alias like
+`johnnywj+jackson@gmail.com` and archive by `deliveredto:` instead.)
 
-**Not forwarded (already reach John directly):** middletonpediatrics.com,
-patient-message.com / priviahealth.com, procaresoftware.com, iclasspro.com /
-goldfishss.com, gobrightline.com, avis.com, marriott.com, goosehead.com.
+**Assistant still reads it:** the `/daily` inbox sweeps search
+`in:inbox OR label:Family-fwd`, so archiving hides nothing. **The label must be
+exactly `Family-fwd`** for this to work.
+
+Key Michelle-only senders this captures (all within Primary/Updates):
+adventhealth.com (Emma imaging + billing), pay.teamhealth.com (ER bills),
+eclinicalmail.com (Michelle's OB — Winter Park OB/GYN), soccershots.com (Lucas
+soccer), gomezcontractors.com + skondesigns.com (active remodel — Gomez/Jana),
+kaufmanncompany.com, healthequity.com (HSA). Senders that already reach John
+directly (these just dedupe): middletonpediatrics.com, patient-message.com,
+procaresoftware.com, iclasspro.com / goldfishss.com, gobrightline.com,
+avis.com, marriott.com, goosehead.com.
 
 ## Money & admin
 
