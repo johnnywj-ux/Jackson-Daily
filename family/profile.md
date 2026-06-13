@@ -59,9 +59,11 @@ Married May 25, 2019 💍
   (exercise, clubs, church) — confirm her availability, don't assume it.
   Travel often (Miami early June 2026); joining the Sunny Isles beach trip
   June–July 2026
-- **Abba** — Michelle's aunt (bday May 8); she and her husband own the
-  Sunny Isles beach condo the family stays at (uncle's name unknown — ask)
-- **Stella** — Michelle's cousin, engaged to **Jared**. Michelle is matron
+- **Abba** — Michelle's aunt (bday May 8). She and her husband **José Ramirez
+  ("Tío")** own the Sunny Isles beach condo the family stays at; Ramirez is
+  their last name. (Note: distinct from Stella's brother, also named José.)
+- **Stella** — Michelle's cousin, engaged to **Jared**. Has a brother named
+  **José** (not to be confused with Tío José Ramirez). Michelle is matron
   of honor (wedding date unknown — ask). Engagement festivities being
   planned by Michelle around the June 2026 Sunny Isles trip
 
