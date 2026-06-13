@@ -16,6 +16,7 @@
 
 | Service | Provider | Notes |
 |---|---|---|
+| Lawn & landscape | Lawntastic — contact **Cole** | Weekly lawn maintenance (billed monthly); also does project work as needed — recently planted new plants and added irrigation (a few weeks back). Bill monthly for maintenance, as-needed for projects |
 | Pest control | Heron Pest | Recent visit June 11, 2026 |
 | Water | Culligan | Frank Scotti |
 | Thermostat/home | Nest | Monthly home reports by email |
