@@ -52,7 +52,7 @@ Married May 25, 2019 💍
   and not available to help** with the kids; treat as an FYI, not a plan
 - **Dan Angel** — Christina's husband, Emma's godfather (bday Aug 7)
 - **Peter, Lucy, Hannah Angel** — Christina & Dan's kids, with a 4th on the
-  way (due date unknown — ask). Lucy's bday Aug 18
+  way (**due Nov 8, 2026**). Lucy's bday Aug 18
 - **Michelle's parents** — **Maria Elena Gauthreaux ("Momma G", bday July 28)**
   and dad; live in **Winter Springs, FL** (close by). Momma G is retired and
   **often helps with Lucas & Emma**, but keeps an active social calendar

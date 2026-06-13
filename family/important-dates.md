@@ -44,6 +44,7 @@ can mention them day-of but they don't need gift lead-time.
 | June 20–21 | Lindsay in Duluth |
 | June 21 – July 5 | Mimi & Papa in town (Winter Park) — Becky's untitled blocks on WP Travel |
 | July 17–19 | Walt Disney World Swan reservation (cancellation window closes July 11, 12:30 PM) |
+| ~Nov 8 | Christina & Dan's 4th baby due — start a gift/visit plan in October |
 | July 19 – Aug 2 | Mimi & Papa in town (Winter Park) |
 | **July 23–27** | **Evermore hotel trip** — booked by Mimi & Papa; Lindsay, Andrew, Piper & Henry joining. JJ has PTO 7/23 + 9/80 Friday off 7/24 ✅ |
 | June 15–19 | Mom at Christi |
