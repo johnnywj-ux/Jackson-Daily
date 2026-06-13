@@ -27,6 +27,35 @@
   reappears, treat as a Michy/JJ admin block.
 - Experian credit alerts arrive by email — surface only if unusual.
 
+## Legal & estate
+
+- **Attorney: Ashley Winship.** Handles the family's estate planning.
+- **Open item (John owns):** now that Emma has joined and we have her SSN,
+  reach back out to Ashley (target: within a month, ~mid-July 2026) to **update
+  the Children's Advance Directives** to add Emma — so there's no question who
+  can "pinch hit" health-care and legal parenting decisions if both John and
+  Michelle are away/unavailable. (Tracked in Todoist.)
+
+## Home maintenance cadence
+
+- **AC filter** — replace regularly (John owns); next change due in the coming
+  weeks. FL summer = don't let it slide.
+- **Gutters** — periodic cleaning (John owns); hire help if it's a hassle.
+
+## Health & medical
+
+- **John & Michelle annual physicals** — both likely overdue; aim to get them
+  done **before fall**, and pair with **flu shots** while there.
+- **Dental** — everyone already has cleanings on the calendar (further out), so
+  no action needed; don't nag.
+- **Penny** — recurring medicine (next reminder June 17); vet cadence TBD.
+
+## Relationship & social
+
+- **Date night** — no standing one yet, but the family would like to. When a
+  good childcare window opens up (grandparent help, sitter), flag it as a chance
+  to schedule one.
+
 ## Trip file: Sunny Isles beach trip, June 26 – July 5, 2026
 
 Family beach trip to Abba's (Michelle's aunt's) condo in Sunny Isles.

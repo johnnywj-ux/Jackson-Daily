@@ -41,11 +41,12 @@ Married May 25, 2019 💍
 
 ### Michelle's side
 
-- **Richard** — Michelle's brother, Lucas's godfather (was in Boston June
-  3–8, 2026)
-- **Nicole Gauthreaux** — Richard's wife, Emma's godmother (bday May 31).
-  Sometimes helps Michelle with the kids; **starts a new job Monday June 15,
-  2026**, so expect her to be much less available from then on
+- **Richard** — Michelle's brother, Lucas's godfather. Lives in **Longwood, FL
+  (~20 min away)** with Nicole. (Was in Boston June 3–8, 2026 — a trip.)
+- **Nicole Gauthreaux** — Richard's wife, Emma's godmother (bday May 31). Lives
+  in Longwood, FL (~20 min away). Sometimes helps Michelle with the kids;
+  **starts a new job Monday June 15, 2026**, so expect her to be much less
+  available from then on
 - **Christina ("Christi")** — Michelle's sister, Lucas's godmother. Lives in
   **St. Petersburg, FL** (in town June 12–14, 2026). Calendar entries like
   "Mom at Christi" mean **Momma G is in St. Pete with Christina — i.e., away
