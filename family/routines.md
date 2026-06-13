@@ -13,13 +13,13 @@
 
 | What | When | Notes |
 |---|---|---|
-| Trash pickup | **Monday & Friday** | City of Winter Park |
+| Trash pickup | **Tuesday & Friday** | City of Winter Park |
 | Recycling pickup | **Friday** | Goes out with Friday trash |
 | Yard waste | **Wednesday** | |
 | Penny's medicine | June 17 reminder on John's calendar | (confirm frequency) |
 
 **Bins are John's job** — Michelle covers when he's traveling for work.
-Briefings remind the *evening before*: Sunday's briefing says "trash out
+Briefings remind the *evening before*: Monday's briefing says "trash out
 tonight," Tuesday's says "yard waste out tonight," Thursday's says "trash +
 recycling out tonight." Address the reminder to whoever's on point that week.
 
