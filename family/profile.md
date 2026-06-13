@@ -74,7 +74,7 @@ Married May 25, 2019 💍
 |---|---|---|
 | Loving Earth Preschool & Development Center | 813 N Lakemont Ave, Winter Park | Lucas (daily summaries arrive via Procare email) |
 | Goldfish Swim School – Winter Park | 5445 Lake Howell Rd, Winter Park | Lucas — Mini 2, Lane 8, Sundays 9:30 AM |
-| Blue Jacket Park | Orlando | Lucas soccer, Saturdays 9:00 AM |
+| Blue Jacket Park | Orlando | Lucas soccer — **Soccer Shots Orlando**, Saturdays 9:00 AM |
 | Middleton Pediatrics | (Privia Health network) | Emma |
 
 ## Friends
